@@ -1,7 +1,7 @@
-# a4z
+# a4z ?!
 
 ## About Me
-Hi, I’m **a4z** — a developer passionate about software, automation and personal projects.  
+Hi, I’m **a4z** — a French **16yo** developer passionate about software, automation and personal projects.  
 I enjoy building tools, experimenting with new technologies, and sharing what I learn.
 
 ## Interests
@@ -15,3 +15,6 @@ I enjoy building tools, experimenting with new technologies, and sharing what I 
 
 ## Contact
 Feel free to check out my repositories or reach out through GitHub.  
+
+contact : a4z1@gov.ia 
+contact pro : a4z1@cia.gov
